@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #efefef;
+}
+
+#img-wrapper {
+  max-width: 80%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.movie-info {
+  padding: 30px;
+  text-align: center;
+}
+
+#movie-director {
+  margin-top: 30px;
+}
+
+#cast h3 {
+  padding-top: 20px;
+}
