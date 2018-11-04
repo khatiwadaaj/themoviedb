@@ -1,5 +1,5 @@
 //perosnalise API key generated from https://www.themoviedb.org
-const API_KEY = "1584370642bcd2caa5eaac1d180c2593";
+const API_KEY = "{YOUR API KEY}";
 
 //Configuration for the image - provides info about the images sizes that we can use and additinal info.
 const config_url = `https://api.themoviedb.org/3/configuration?api_key=${API_KEY}`;
